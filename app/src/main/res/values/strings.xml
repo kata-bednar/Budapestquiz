@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Budapest quiz</string>
+    <string name="first_question">1. Budapest has been the capital of spas for 80 years. How many medicinal springs does it have?</string>
+    <string name="first_answer1">17</string>
+    <string name="first_answer2">65</string>
+    <string name="first_answer3">118</string>
+    <string name="second_question">2. What kind of animals are guarding the two sides of the Chain Bridge?</string>
+    <string name="third_question">3. When was Budapest Zoo opened?</string>
+    <string name="third_answer1">1866</string>
+    <string name="third_answer2">1890</string>
+    <string name="third_answer3">1905</string>
+    <string name="fourth_question">4. How many meters high is the Budapest Statue of Liberty together with its base?</string>
+    <string name="fourth_answer1">12</string>
+    <string name="fourth_answer2">60</string>
+    <string name="fourth_answer3">40</string>
+    <string name="fifth_question">5. How many metro lines does Budapest have?</string>
+    <string name="fifth_answer1">7</string>
+    <string name="fifth_answer2">6</string>
+    <string name="fifth_answer3">4</string>
+    <string name="sixth_question">6. How many residents does Budapest have?</string>
+    <string name="sixth_answer1">1.260.000</string>
+    <string name="sixth_answer2">1.790.000</string>
+    <string name="sixth_answer3">2.100.000</string>
+    <string name="seventh_question">7. Which of the following sights are part of the UNESCO World Heritage in Budapest?</string>
+    <string name="seventh_answer1">Fisherman\'s Bastion</string>
+    <string name="seventh_answer2">Parliament</string>
+    <string name="seventh_answer3">Castle of Buda</string>
+    <string name="seventh_answer4">Nyugati Railway Station</string>
+    <string name="check">Check answers</string>
+</resources>
